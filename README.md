@@ -1,6 +1,9 @@
 # Ultraschallsensor
 Messung der Entfernung mithilfe eines Ultraschallsensors und einem Arduino.
 
+## Konsolenbefehle
+- trigger: Startet eine Abstandsmessung.
+
 ## Aufbau der Schaltung
 ![image](https://github.com/JackboyPlay/Ultraschallsensor/blob/master/Schaltung_ECHO.png)
 - Rote Kabel: Liefern einer Spannung beziehungsweise eines Stroms.
