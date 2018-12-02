@@ -17,7 +17,7 @@ Nun multiplizieren wir die Zahl mit der Variablen __schallgeschwindigkeit__ (~34
 zahl *= (schallgeschwindigkeit / 1000000);
 ```
 
-Zu guter Letzt dividieren wir die Zahl mit 2, da die gemessene Entfernung Hin- und Rückweg ist.
+Zu guter Letzt dividieren wir die Zahl mit 2, da die gemessene Entfernung Hin- und Rückweg beinhaltet.
 ```C++
 zahl /= 2;
 ```
